@@ -1,5 +1,5 @@
 # My personal webpage 
 
-Link: [paritoshparmar.github.io](https://paritoshparmar.github.io/)
+Link: [jiangliu5.github.io](https://jiangliu5.github.io/)
 
-Layout inspired from: [jonbarron.info](https://jonbarron.info/)
+Layout inspired from: [paritoshparmar.github.io](https://paritoshparmar.github.io/)
