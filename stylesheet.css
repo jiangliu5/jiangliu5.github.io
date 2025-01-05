@@ -167,3 +167,20 @@ H1 {
 hr { 
   background-color: black; height: 1px; border: 0; 
 }
+
+.label {
+    display: inline-block;
+    padding: 0.1em 0.2em;
+    font-size: 80%;
+    font-weight: 700;
+    color: #fff;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: baseline;
+    border-radius: 0.25em;
+}
+
+.label-info {
+    background-color: #007bbd; /* 深蓝色 */
+    color: white; /* 白色文字 */
+}
