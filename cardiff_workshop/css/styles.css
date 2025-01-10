@@ -1,0 +1,61 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f9;
+}
+
+.container {
+    width: 80%;
+    margin: 20px auto;
+}
+
+h1, h2 {
+    text-align: center;
+    color: #333;
+}
+
+.schedule-day {
+    margin-bottom: 30px;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.schedule-day h2 {
+    color: #4CAF50;
+}
+
+.session {
+    display: flex;
+    justify-content: space-between;
+    margin: 10px 0;
+}
+
+.session-time {
+    font-weight: bold;
+    color: #555;
+}
+
+.session-title {
+    font-size: 1.1em;
+    color: #333;
+}
+
+.session-speaker {
+    font-style: italic;
+    color: #777;
+}
+
+.session-location {
+    color: #888;
+}
+
+.tea-break {
+    background-color: #f1f1f1;
+    padding: 10px;
+    text-align: center;
+    font-weight: bold;
+    border-radius: 5px;
+}
