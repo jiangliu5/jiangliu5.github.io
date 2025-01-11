@@ -519,13 +519,13 @@ header nav ul {
 	float: center;
 }
 nav ul li {
-	float: none;
+	float: left;
 	color: #000000;
-	font-size: 2.0vw;
+	font-size: 2.2vw;
 	text-align: right;
 	margin-top: -2.0vw;
-	margin-right: 0vw;
-	letter-spacing: normal;
+	margin-right: -3.0vw;
+	letter-spacing: 0.1vw;
 	font-weight: bold;
 	transition: all 0.3s linear;
 	transform: scale(0.65,0.65);
@@ -878,13 +878,13 @@ header nav ul {
 	float: center;
 }
 nav ul li {
-	float: none;
+	float: left;
 	color: #000000;
-	font-size: 2.5vw;
+	font-size: 1.7vw;
 	text-align: right;
 	margin-top: -1.1vw;
 	margin-right: -1.8vw;
-	letter-spacing: normal;
+	letter-spacing: 0.1vw;
 	transition: all 0.3s linear;
 	transform: scale(0.65,0.65);
 
