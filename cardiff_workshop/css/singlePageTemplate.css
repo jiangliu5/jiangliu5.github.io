@@ -524,7 +524,7 @@ nav ul li {
 	font-size: 3.5vw;
 	text-align: right;
 	margin-top: -2.0vw;
-	margin-right: 0vw;
+	margin-right: -4.0vw;
 	letter-spacing: normal;
 	font-weight: bold;
 	transition: all 0.3s linear;
