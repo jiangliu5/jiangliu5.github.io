@@ -519,7 +519,7 @@ header nav ul {
 	float: center;
 }
 nav ul li {
-	float: left;
+	float: none;
 	color: #000000;
 	font-size: 3.5vw;
 	text-align: right;
@@ -878,7 +878,7 @@ header nav ul {
 	float: center;
 }
 nav ul li {
-	float: left;
+	float: none;
 	color: #000000;
 	font-size: 2.5vw;
 	text-align: right;
