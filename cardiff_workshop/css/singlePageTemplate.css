@@ -504,7 +504,7 @@ html * {
 	height: 3.8%;
 	margin-left: 0;
 	margin-right: 0;
-	background-color: #20518B;
+	background-color: #ffffff;
 }
 
 nav {
@@ -520,7 +520,7 @@ header nav ul {
 }
 nav ul li {
 	float: left;
-	color: #FFFFFF;
+	color: #000000;
 	font-size: 2.2vw;
 	text-align: right;
 	margin-top: -1.6vw;
@@ -531,14 +531,14 @@ nav ul li {
 	transform: scale(0.65,0.65);
 }
 ul li a {
-	color: #FFFFFF;
+	color: #000000;
 	text-decoration: none;
 }
 ul li:hover a {
 	color: #2C9AB7;
 }
 .hero_header {
-	color: #FFFFFF;
+	color: #000000;
 	text-align: center;
 	margin-top: 0vw;
 	margin-bottom: 0vw;
@@ -573,7 +573,7 @@ ul li:hover a {
 }
 
 .stats_text {
-	color: #FFFFFF;
+	color: #000000;
 	margin-bottom: 0.25vw;
 	font-size:3vw;
    /*text-align: justify;*/
@@ -582,7 +582,7 @@ ul li:hover a {
 }
 
 .stats_text_ul {
-	color: #FFFFFF;
+	color: #000000;
 	margin-bottom: 0.25vw;
 	font-size:2.8vw;
    /*text-align: justify;*/
@@ -595,7 +595,7 @@ ul li:hover a {
 	position: absolute;
     top: 35%;
     width: 94%;
-	color: #FFFFFF;
+	color: #000000;
 	margin-left: 3%;
 	font-size:3.4vw;
 	text-align: center;
@@ -608,7 +608,7 @@ ul li:hover a {
     top: 50%;
     width: 80%;
 	margin-left: 10%;
-	color: #FFFFFF;
+	color: #000000;
 	font-size:3vw;
 	text-align: center;
 }
@@ -620,7 +620,7 @@ ul li:hover a {
     width: 100%;
 		margin-left: 0;
 	margin-right: 0;
-	color: #FFFFFF;
+	color: #000000;
 	font-size:3.0vw;
 	text-align: center;
 }
@@ -631,7 +631,7 @@ ul li:hover a {
 	position: absolute;
     top: 90%;
     width: 100%;
-	color: #FFFFFF;
+	color: #000000;
 	font-size:2.8vw;
 	text-align: center;
 }
@@ -647,7 +647,7 @@ ul li:hover a {
 
 
 .speaker_text {
-	color: #FFFFFF;
+	color: #000000;
 	text-align: justify;
 	margin-top: 0.2vw;
 	font-size:0.81vw;
@@ -755,7 +755,7 @@ table.imgtable, table.imgtable td {
 .people-name {
     text-align: center;
     text-overflow: ellipsis;
-	color: #FFFFFF;
+	color: #000000;
 	font-size:1.2vw;
 }
 
@@ -825,7 +825,7 @@ html * {
     -webkit-tap-highlight-color: rgba(0,0,0,0)
 }	body {
 	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
-	background-color: #384B58;
+	background-color: #ffffff;
 	margin-top: 0vw;
 	margin-right: 0vw;
 	margin-bottom: 0vw;
@@ -856,7 +856,7 @@ html * {
 	height: 3.8%;
 	margin-left: 0;
 	margin-right: 0;
-	background-color: #20518B;
+	background-color: #ffffff;
 }
 
 nav {
@@ -923,7 +923,7 @@ ul li:hover a {
 }
 
 .stats_text {
-	color: #FFFFFF;
+	color: #000000;
 	margin-bottom: 0.25vw;
 	font-size:3vw;
    /*text-align: justify;*/
@@ -932,7 +932,7 @@ ul li:hover a {
 }
 	
 .stats_text_ul {
-	color: #FFFFFF;
+	color: #000000;
 	margin-bottom: 0.25vw;
 	font-size:2.8vw;
    /*text-align: justify;*/
@@ -945,7 +945,7 @@ ul li:hover a {
 	position: absolute;
     top: 35%;
     width: 94%;
-	color: #FFFFFF;
+	color: #000000;
 	margin-left: 3%;
 	font-size:3.4vw;
 	text-align: center;
@@ -958,7 +958,7 @@ ul li:hover a {
     top: 50%;
     width: 80%;
 	margin-left: 10%;
-	color: #FFFFFF;
+	color: #000000;
 	font-size:3vw;
 	text-align: center;
 }
@@ -970,7 +970,7 @@ ul li:hover a {
     width: 100%;
 		margin-left: 0;
 	margin-right: 0;
-	color: #FFFFFF;
+	color: #000000;
 	font-size:3.0vw;
 	text-align: center;
 }
@@ -981,7 +981,7 @@ ul li:hover a {
 	position: absolute;
     top: 90%;
     width: 100%;
-	color: #FFFFFF;
+	color: #000000;
 	font-size:2.8vw;
 	text-align: center;
 }
@@ -1007,7 +1007,7 @@ ul li:hover a {
 
 
 .speaker_text {
-	color: #FFFFFF;
+	color: #000000;
 	text-align: justify;
 	margin-top: 0.25vw;
 	font-size:1.05vw;
