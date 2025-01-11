@@ -508,7 +508,7 @@ html * {
 }
 
 nav {
-	float: center;
+	float: right;
 	width: 77%;
 	text-align: center;
 	margin-right: 2vw;
@@ -516,15 +516,15 @@ nav {
 }
 header nav ul {
 	list-style: none;
-	float: center;
+	float: right;
 }
 nav ul li {
 	float: left;
 	color: #000000;
-	font-size: 2.2vw;
+	font-size: 3.5vw;
 	text-align: right;
 	margin-top: -2.0vw;
-	margin-right: -3.0vw;
+	margin-right: -4vw;
 	letter-spacing: 0.1vw;
 	font-weight: bold;
 	transition: all 0.3s linear;
@@ -867,7 +867,7 @@ html * {
 }
 
 nav {
-	float: center;
+	float: right;
 	width: 77%;
 	text-align: center;
 	margin-right: 1.6vw;
@@ -875,12 +875,12 @@ nav {
 }
 header nav ul {
 	list-style: none;
-	float: center;
+	float: right;
 }
 nav ul li {
 	float: left;
 	color: #000000;
-	font-size: 1.7vw;
+	font-size: 2.5vw;
 	text-align: right;
 	margin-top: -1.1vw;
 	margin-right: -1.8vw;
