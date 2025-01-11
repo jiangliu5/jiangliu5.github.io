@@ -497,7 +497,7 @@ html * {
 
 /* Navigation */
 .header {
-	position: fixed;
+	/*position: fixed;*/
     top:0;
 	z-index:9999;
 	width: 95%;
@@ -857,7 +857,7 @@ html * {
 
 /* Navigation */
 .header {
-	position: fixed;
+	/*position: fixed;*/
     top:0;
 	z-index:9999;
 	width: 95%;
