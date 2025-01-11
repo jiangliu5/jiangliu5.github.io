@@ -508,7 +508,7 @@ html * {
 }
 
 nav {
-	float: right;
+	float: center;
 	width: 77%;
 	text-align: center;
 	margin-right: 2vw;
@@ -516,7 +516,7 @@ nav {
 }
 header nav ul {
 	list-style: none;
-	float: right;
+	float: center;
 }
 nav ul li {
 	float: left;
@@ -867,7 +867,7 @@ html * {
 }
 
 nav {
-	float: right;
+	float: center;
 	width: 77%;
 	text-align: center;
 	margin-right: 1.6vw;
@@ -875,7 +875,7 @@ nav {
 }
 header nav ul {
 	list-style: none;
-	float: right;
+	float: center;
 }
 nav ul li {
 	float: left;
