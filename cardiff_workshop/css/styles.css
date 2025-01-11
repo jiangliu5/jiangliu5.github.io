@@ -59,3 +59,87 @@ h1, h2 {
     font-weight: bold;
     border-radius: 5px;
 }
+
+@media only screen and (max-width: 768px) {
+
+    /* Adjust the container width for mobile */
+    .container {
+        width: 90%;
+        margin: 10px auto;
+    }
+
+    /* Header image adjustments */
+    .header img {
+        width: 100%;
+        height: auto;
+    }
+
+    /* Make schedule headings smaller and adjust text alignment */
+    h1, h2 {
+        font-size: 1.5em;
+        text-align: center;
+    }
+
+    /* Adjust the schedule day for mobile */
+    .schedule-day {
+        padding: 15px;
+        margin-bottom: 20px;
+    }
+
+    /* Adjust the session layout for smaller screens */
+    .session {
+        flex-direction: column;
+        align-items: flex-start;
+        margin: 15px 0;
+    }
+
+    /* Adjust session time and title */
+    .session-time, .session-title {
+        font-size: 1em;
+    }
+
+    /* Adjust session speaker and location for smaller screens */
+    .session-speaker, .session-location {
+        font-size: 0.9em;
+    }
+
+    /* Tea break styling for mobile */
+    .tea-break {
+        font-size: 1em;
+        padding: 12px;
+        margin-bottom: 15px;
+    }
+
+    /* Footer adjustments for mobile */
+    footer {
+        text-align: center;
+        padding: 15px 0;
+    }
+
+    .copyright {
+        font-size: 0.9em;
+    }
+
+    /* Ensure that text within the header navigation is appropriately sized */
+    .header nav ul li {
+        font-size: 1.5em;
+        margin-right: 0;
+        padding: 10px 0;
+    }
+
+    .header nav ul li a {
+        display: block;
+        padding: 10px;
+        text-align: center;
+    }
+
+    .header nav ul {
+        padding: 0;
+        list-style: none;
+    }
+
+    /* Adjust spacing for the schedule section */
+    .session-title, .session-time {
+        margin-bottom: 10px;
+    }
+}
