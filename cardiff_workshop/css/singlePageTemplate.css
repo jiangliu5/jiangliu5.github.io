@@ -807,6 +807,13 @@ table.imgtable, table.imgtable td {
 	border-top-width: 0.053vw;
 	font-family: "Source Sans Pro";
 }
+
+.iframe {
+    max-width: 100%;
+    height: auto;
+    max-width: 600px; /* Set a maximum width to avoid being too large on big screens */
+    width: 100%; /* Full width on smaller screens */
+}
 }
 
 
@@ -1157,6 +1164,12 @@ table.imgtable, table.imgtable td {
 	letter-spacing: 0.053vw;
 	border-top-width: 0.053vw;
 	font-family: "Source Sans Pro";
+}
+.iframe {
+    max-width: 100%;
+    height: auto;
+    max-width: 600px; /* Set a maximum width to avoid being too large on big screens */
+    width: 100%; /* Full width on smaller screens */
 }
 
 }
