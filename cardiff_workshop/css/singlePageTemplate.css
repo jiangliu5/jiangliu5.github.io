@@ -525,7 +525,7 @@ nav ul li {
 	text-align: right;
 	margin-top: -2.0vw;
 	margin-right: 0vw;
-	letter-spacing: 0.1vw;
+	letter-spacing: normal;
 	font-weight: bold;
 	transition: all 0.3s linear;
 	transform: scale(0.65,0.65);
@@ -884,7 +884,7 @@ nav ul li {
 	text-align: right;
 	margin-top: -1.1vw;
 	margin-right: -1.8vw;
-	letter-spacing: 0.1vw;
+	letter-spacing: normal;
 	transition: all 0.3s linear;
 	transform: scale(0.65,0.65);
 
