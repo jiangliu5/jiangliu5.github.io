@@ -525,7 +525,7 @@ nav ul li {
 	font-size: 3.5vw;
 	text-align: right;
 	margin-top: -2.0vw;
-	margin-right: -3vw;
+	margin-right: -4vw;
 	letter-spacing: 0.1vw;
 	font-weight: bold;
 	transition: all 0.3s linear;
@@ -885,7 +885,7 @@ nav ul li {
 	font-size: 2.5vw;
 	text-align: right;
 	margin-top: -1.1vw;
-	margin-right: -3vw;
+	margin-right: -4vw;
 	letter-spacing: 0.1vw;
 	transition: all 0.3s linear;
 	transform: scale(0.65,0.65);
