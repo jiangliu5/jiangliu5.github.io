@@ -381,7 +381,7 @@ table.imgtable, table.imgtable td {
 }
 
 .section-title {
-    background-color: #C33A29; /* 红色背景 */
+    background-color: #D3413F; /* 红色背景 */
     color: #FFFFFF; /* 白色字体 */
     font-size: 2em; /* 字体大小 */
     font-weight: bold; /* 加粗文字 */
@@ -395,7 +395,7 @@ table.imgtable, table.imgtable td {
 }
 
 .section-title2 {
-    background-color: #C33A29; /* 红色背景 */
+    background-color: #D3413F; /* 红色背景 */
     color: #FFFFFF; /* 白色字体 */
     font-size: 1em; /* 字体大小 */
     /*font-weight: bold; !* 加粗文字 *!*/
@@ -1319,7 +1319,7 @@ table.imgtable, table.imgtable td {
 .red-line {
     width: 90%; /* 控制横线宽度 */
     height: 2px; /* 控制横线高度 */
-    background-color: red; /* 红色横线 */
+    background-color: #D3413F; /* 红色横线 */
     margin: 0 auto; /* 居中对齐 */
     margin-top: 2px; /* 距离标题的间距 */
 }
