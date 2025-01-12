@@ -684,7 +684,7 @@ ul li:hover a {
     width: 80%;
 	margin-left: 10%;
 	color: #000000;
-	font-size:3vw;
+	font-size:1.2vw;
 	text-align: center;
 }
 
@@ -874,7 +874,7 @@ table.imgtable, table.imgtable td {
 .copyright {
 	text-align: center;
 	background-color: #ffffff;
-	color: #FFFFFF;
+	color: #000000;
 	font-size:2.5vw;
 	text-transform: uppercase;
 	font-weight: lighter;
@@ -889,6 +889,23 @@ table.imgtable, table.imgtable td {
     max-width: 600px; /* Set a maximum width to avoid being too large on big screens */
     width: 100%; /* Full width on smaller screens */
 }
+
+.speaker h3 {
+    font-size: 0.6em;
+}
+
+.speakers-grid {
+    grid-template-columns: repeat(3, 1fr);
+}
+
+.red-line {
+    width: 90%; /* 控制横线宽度 */
+    height: 2px; /* 控制横线高度 */
+    background-color: red; /* 红色横线 */
+    margin: 0 auto; /* 居中对齐 */
+    margin-top: 2px; /* 距离标题的间距 */
+}
+
 }
 
 
@@ -1064,7 +1081,7 @@ ul li:hover a {
     width: 80%;
 	margin-left: 10%;
 	color: #000000;
-	font-size:3vw;
+	font-size:1.2vw;
 	text-align: center;
 }
 	
@@ -1249,13 +1266,13 @@ table.imgtable, table.imgtable td {
 }
 
 .footer {
-	background-color: #20518B;
+	background-color: #ffffff;
 }
 
 .copyright {
 	text-align: center;
-	background-color: #20518B;
-	color: #FFFFFF;
+	background-color: #ffffff;
+	color: #000000;
 	font-size:2.5vw;
 	text-transform: uppercase;
 	font-weight: lighter;
@@ -1268,6 +1285,22 @@ table.imgtable, table.imgtable td {
     height: auto;
     max-width: 600px; /* Set a maximum width to avoid being too large on big screens */
     width: 100%; /* Full width on smaller screens */
+}
+
+.speaker h3 {
+    font-size: 0.5em;
+}
+
+.speakers-grid {
+    grid-template-columns: repeat(2, 1fr);
+}
+
+.red-line {
+    width: 90%; /* 控制横线宽度 */
+    height: 2px; /* 控制横线高度 */
+    background-color: red; /* 红色横线 */
+    margin: 0 auto; /* 居中对齐 */
+    margin-top: 2px; /* 距离标题的间距 */
 }
 
 }
