@@ -34,7 +34,7 @@ body {
 
 	
 .mmimg {
-	width: 12.495vw;
+	width: 5.495vw;
 	height: 4.08vw;
 	margin-bottom: -0.2vw;
 }
@@ -542,7 +542,7 @@ html * {
 
 
 .mmimg {
-	width: 19.2vw;
+	width: 6.2vw;
 	height: 6vw;
 	margin-bottom: -0.8vw;
 }
@@ -916,6 +916,17 @@ table.imgtable, table.imgtable td {
 	margin-bottom: 20px;  /* 图片与文字之间的间距 */
 }
 
+.section-title {
+	font-size: 1.5em; /* 字体大小减小 */
+	padding: 15px 0; /* 减小上下内边距 */
+	margin: 20px auto; /* 减小上下外边距 */
+}
+
+.schedule-day h2 {
+	font-size: 1.5em; /* 减小字体大小 */
+	margin-bottom: 15px; /* 减小外边距 */
+}
+
 }
 
 
@@ -951,7 +962,7 @@ html * {
 
 	
 .mmimg {
-	width: 19.2vw;
+	width: 6.2vw;
 	height: 6vw;
 	margin-bottom: -0.8vw;
 }
@@ -1323,4 +1334,14 @@ table.imgtable, table.imgtable td {
 	margin-bottom: 20px;  /* 图片与文字之间的间距 */
 }
 
+.section-title {
+	font-size: 1.5em; /* 字体大小减小 */
+	padding: 15px 0; /* 减小上下内边距 */
+	margin: 20px auto; /* 减小上下外边距 */
+}
+
+.schedule-day h2 {
+	font-size: 1.5em; /* 减小字体大小 */
+	margin-bottom: 15px; /* 减小外边距 */
+}
 }
