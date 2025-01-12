@@ -906,6 +906,16 @@ table.imgtable, table.imgtable td {
     margin-top: 2px; /* 距离标题的间距 */
 }
 
+.schedule-day > div {
+	flex-direction: column;  /* 图片和文字垂直排列 */
+	align-items: center;  /* 居中 */
+}
+
+.schedule-day > div img {
+	margin-right: 0;  /* 去掉右侧的间距 */
+	margin-bottom: 20px;  /* 图片与文字之间的间距 */
+}
+
 }
 
 
@@ -1301,6 +1311,16 @@ table.imgtable, table.imgtable td {
     background-color: red; /* 红色横线 */
     margin: 0 auto; /* 居中对齐 */
     margin-top: 2px; /* 距离标题的间距 */
+}
+
+.schedule-day > div {
+	flex-direction: column;  /* 图片和文字垂直排列 */
+	align-items: center;  /* 居中 */
+}
+
+.schedule-day > div img {
+	margin-right: 0;  /* 去掉右侧的间距 */
+	margin-bottom: 20px;  /* 图片与文字之间的间距 */
 }
 
 }
